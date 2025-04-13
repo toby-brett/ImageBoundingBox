@@ -1,0 +1,43 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_1/PNGImages/TUGraz_person/person_301.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Dataset 1 Database (TUGraz)"
+Objects with ground truth : 8 { "PASpersonSitting" "PASpersonStanding" "PASpersonStanding" "PASpersonSitting" "PASpersonSitting" "PASpersonSitting" "PASpersonSitting" "PASpersonSitting" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASpersonSitting")
+Original label for object 1 "PASpersonSitting" : "person"
+Bounding box for object 1 "PASpersonSitting" (Xmin, Ymin) - (Xmax, Ymax) : (307, 316) - (365, 432)
+
+# Details for object 2 ("PASpersonStanding")
+Original label for object 2 "PASpersonStanding" : "person"
+Bounding box for object 2 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (199, 177) - (268, 331)
+
+# Details for object 3 ("PASpersonStanding")
+Original label for object 3 "PASpersonStanding" : "person"
+Bounding box for object 3 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (273, 254) - (312, 360)
+
+# Details for object 4 ("PASpersonSitting")
+Original label for object 4 "PASpersonSitting" : "person"
+Bounding box for object 4 "PASpersonSitting" (Xmin, Ymin) - (Xmax, Ymax) : (279, 191) - (377, 310)
+
+# Details for object 5 ("PASpersonSitting")
+Original label for object 5 "PASpersonSitting" : "person"
+Bounding box for object 5 "PASpersonSitting" (Xmin, Ymin) - (Xmax, Ymax) : (38, 152) - (78, 210)
+
+# Details for object 6 ("PASpersonSitting")
+Original label for object 6 "PASpersonSitting" : "person"
+Bounding box for object 6 "PASpersonSitting" (Xmin, Ymin) - (Xmax, Ymax) : (186, 161) - (230, 211)
+
+# Details for object 7 ("PASpersonSitting")
+Original label for object 7 "PASpersonSitting" : "person"
+Bounding box for object 7 "PASpersonSitting" (Xmin, Ymin) - (Xmax, Ymax) : (131, 125) - (174, 182)
+
+# Details for object 8 ("PASpersonSitting")
+Original label for object 8 "PASpersonSitting" : "person"
+Bounding box for object 8 "PASpersonSitting" (Xmin, Ymin) - (Xmax, Ymax) : (112, 129) - (132, 163)

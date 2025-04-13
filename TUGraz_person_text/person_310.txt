@@ -1,0 +1,39 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_1/PNGImages/TUGraz_person/person_310.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Dataset 1 Database (TUGraz)"
+Objects with ground truth : 7 { "PASpersonStanding" "PASpersonWalking" "PASpersonStanding" "PASpersonSitting" "PASpersonStanding" "PASpersonWalking" "PASpersonWalking" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASpersonStanding")
+Original label for object 1 "PASpersonStanding" : "person"
+Bounding box for object 1 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (66, 75) - (121, 242)
+
+# Details for object 2 ("PASpersonWalking")
+Original label for object 2 "PASpersonWalking" : "person"
+Bounding box for object 2 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (322, 101) - (390, 241)
+
+# Details for object 3 ("PASpersonStanding")
+Original label for object 3 "PASpersonStanding" : "person"
+Bounding box for object 3 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (419, 125) - (462, 232)
+
+# Details for object 4 ("PASpersonSitting")
+Original label for object 4 "PASpersonSitting" : "person"
+Bounding box for object 4 "PASpersonSitting" (Xmin, Ymin) - (Xmax, Ymax) : (328, 123) - (415, 234)
+
+# Details for object 5 ("PASpersonStanding")
+Original label for object 5 "PASpersonStanding" : "person"
+Bounding box for object 5 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (175, 79) - (222, 205)
+
+# Details for object 6 ("PASpersonWalking")
+Original label for object 6 "PASpersonWalking" : "person"
+Bounding box for object 6 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (129, 89) - (164, 198)
+
+# Details for object 7 ("PASpersonWalking")
+Original label for object 7 "PASpersonWalking" : "person"
+Bounding box for object 7 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (114, 76) - (141, 199)
